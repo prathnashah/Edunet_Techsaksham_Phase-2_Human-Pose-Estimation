@@ -8,9 +8,10 @@ This project demonstrates a real-time human pose estimation system using the Med
 * **Applications:** Gesture recognition, fitness monitoring, and rehabilitation analysis.
 
 ## Installation
-Clone the Repository:
+__Clone the Repository:__
+```bash
 git clone https://github.com/prathnashah/Edunet_Techsaksham_Phase-2_Human-Pose-Estimation.git
-cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation```
+cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation
 
 ## Requirements
 ### Hardware
