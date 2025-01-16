@@ -2,10 +2,10 @@
 This project demonstrates a real-time human pose estimation system using the MediaPipe Pose framework and OpenCV, developed as part of the AICTE Internship on AI: Transformative Learning (2024). It focuses on detecting and tracking human body keypoints in real-time, addressing challenges like dynamic movements, occlusions, and environmental variations.
 
 ## Features
-33 Body Landmarks Detection: Efficient and accurate keypoint detection using MediaPipe Pose.
-Real-Time Visualization: Annotated pose landmarks on live video feed via OpenCV.
-Lightweight Framework: Low computational overhead, suitable for desktop environments.
-Applications: Gesture recognition, fitness monitoring, and rehabilitation analysis.
+* 33 Body Landmarks Detection: Efficient and accurate keypoint detection using MediaPipe Pose.
+* Real-Time Visualization: Annotated pose landmarks on live video feed via OpenCV.
+* Lightweight Framework: Low computational overhead, suitable for desktop environments.
+* Applications: Gesture recognition, fitness monitoring, and rehabilitation analysis.
 
 ## Installation
 Clone the Repository:
@@ -14,11 +14,11 @@ cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation
 
 ## Requirements
 ### Hardware
-A webcam or equivalent video capture device.
-A system with at least 4 GB RAM and an Intel i5 processor (or equivalent). A GPU is recommended for better performance.
+* A webcam or equivalent video capture device.
+* A system with at least 4 GB RAM and an Intel i5 processor (or equivalent). A GPU is recommended for better performance.
 ### Software
-Python 3.7+
-Libraries: OpenCV, MediaPipe, Streamlit (optional for UI).
+* Python 3.7+
+* Libraries: OpenCV, MediaPipe, Streamlit (optional for UI).
 
 ## Usage
 1. Connect your webcam or camera device.
