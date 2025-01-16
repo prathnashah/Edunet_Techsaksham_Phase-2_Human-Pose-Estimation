@@ -29,9 +29,9 @@ cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation
 
 ## Snapshots of Results
 ### Football Video Example:
-
+<img src="path/to/your/image.png" alt="Alt text" width="300"/>
 ### Yoga Video Example:
-
+<img src="path/to/your/image.png" alt="Alt text" width="300"/>
 ## Future Work
 1. Enhance robustness for dynamic conditions (e.g., poor lighting, occlusions).
 2. Implement real-time feedback for fitness and rehabilitation.
