@@ -12,6 +12,7 @@ __Clone the Repository:__
 ```bash
 git clone https://github.com/prathnashah/Edunet_Techsaksham_Phase-2_Human-Pose-Estimation.git
 cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation
+```
 
 ## Requirements
 ### Hardware
@@ -30,6 +31,7 @@ cd Edunet_Techsaksham_Phase-2_Human-Pose-Estimation
 ### Football Video Example:
 
 ### Yoga Video Example:
+
 ## Future Work
 1. Enhance robustness for dynamic conditions (e.g., poor lighting, occlusions).
 2. Implement real-time feedback for fitness and rehabilitation.
